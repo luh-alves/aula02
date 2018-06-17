@@ -1,0 +1,32 @@
+header.banner-home{
+    background: url("../aula2/img-MastHead.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 25%;
+    
+}
+section.cabecalho{
+    background-color: #d3d5d7;
+}
+a{
+    color: black;
+    font-size: 10px;
+}
+a:hover{
+    color: black;
+    font-size: 12px;
+}
+i{
+    font-size: 20px;
+}
+i:hover{
+    color: rgb(7, 87, 124);
+    font-size: 25px;
+}
+footer.icones{
+    background: gray;
+    
+}
